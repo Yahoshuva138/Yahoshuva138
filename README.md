@@ -82,17 +82,6 @@ A.A.N.M. & V.V.R.S.R. Polytechnic College | CGPA: **9.4/10**
 - ✅ Created lab manuals and documentation for academic coursework
 - ✅ Building comprehensive portfolio of technical projects
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yahoshuva138&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yahoshuva138&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yahoshuva138&theme=radical)
-
-</div>
 
 ## 🔧 Technologies & Tools
 
